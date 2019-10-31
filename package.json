@@ -14,7 +14,7 @@
     "ffmpeg-binaries": "^4.0.0",
     "fs": "0.0.1-security",
     "git": "^0.1.5",
-    "mongoose": "^5.5.2",
+    "mongoose": "^5.7.5",
     "ms": "^2.1.1",
     "opusscript": "0.0.6",
     "superagent": "^4.1.0",
